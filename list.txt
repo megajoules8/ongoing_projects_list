@@ -1,0 +1,9 @@
+I will be adding a description of what work needs to be done for each soon. 
+
+-python for kids book
+-intermediate python for kids curriculum
+-children's workshop for PyCons
+-Python with the TI 84 plus CE calculator curriculum
+-a practical guide to learning data science with python (curriculum/book)
+-Translate my free materials
+-creation/translation of materials to Irish/create materials for Gaelscoil 
